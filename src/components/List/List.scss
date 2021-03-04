@@ -6,7 +6,11 @@
     &:hover {
       opacity: 1;
     }
+  }
 
+  &__remove-icon {
+    width: 10px;
+    height: 10px;
   }
 
   li {
